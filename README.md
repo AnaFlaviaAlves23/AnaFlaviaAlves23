@@ -10,24 +10,13 @@
 </p>
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/ana-flavia-rosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/laissa_rosa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaAlves23&layout=compact&theme=tokyonight" alt="Top Langs" />
-
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnaFlaviaAlves23&theme=tokyonight&column=8" alt="Trophies" />
-</p>
-
----
-
-## Sobre mim
-
-✨ Sou Ana Flávia Tavares Alves!
-🎓 Estudante de Sistemas de Informação pela UFV (CRP)
-🚀 Apaixonado por TI
+  <img src="
