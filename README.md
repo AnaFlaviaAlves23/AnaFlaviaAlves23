@@ -19,4 +19,17 @@
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaAlves23&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnaFlaviaAlves23&theme=tokyonight&column=8" alt="Trophies" />
+</p>
+
+---
+
+## Sobre mim
+
+✨ Sou Ana Flávia Tavares Alves!
+🎓 Estudante de Sistemas de Informação pela UFV (CRP)
+🚀 Apaixonada por TI
