@@ -19,12 +19,19 @@
 
 ## 📊 Estatísticas
 
-### 🛠️ Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaAlves23&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaAlves23&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true" alt="Most Used Languages" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AnaFlaviaAlves23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-### 🏆 Troféus
+<br/>
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AnaFlaviaAlves23&theme=tokyonight&column=8" alt="Trophies" />
 </p>
@@ -33,6 +40,6 @@
 
 ## Sobre mim
 
-✨ Sou Ana Flávia Tavares Alves!
-🎓 Estudante de Sistemas de Informação pela UFV (CRP)
-🚀 Apaixonada por TI
+✨ **Sou Ana Flávia Tavares Alves!** 🎓 Estudante de Sistemas de Informação na Universidade Federal de Viçosa (**UFV - CRP**).  
+👩‍💻 Apaixonada por desenvolvimento de software, tecnologia e inovação!  
+🚀 Constantemente aprendendo, construindo e explorando novas ferramentas para crescer como desenvolvedora.
