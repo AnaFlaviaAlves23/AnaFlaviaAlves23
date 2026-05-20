@@ -61,9 +61,8 @@
   <p>
     👋 Prazer, sou a <b>Ana Flávia</b>! <br>
     🎓 Futura Bacharel em <b>Sistemas de Informação</b> pela <b>UFV (Campus Rio Paranaíba)</b>.<br>
-    💻 Apaixonada pelo desenvolvimento web Full Stack e pelo ecossistema da tecnologia.<br>
-    🚀 No meu repositório <b>VIONE</b>, desenvolvi um projeto prático de site completo para a disciplina de Laboratório de Programação, dominando a arquitetura de <b>Frontend e Backend</b> utilizando <b>HTML5, CSS3 e JavaScript</b>.<br>
-    🛠️ Além disso, venho aprimorando minha lógica de programação e explorando linguagens como <b>Python, C, C# e Java</b> nas disciplinas da faculdade.<br>
-    🌱 Movida pelo desafio de transformar problemas complexos em códigos limpos, funcionais e bem estruturados!
+    💻 Apaixonada pelo universo da tecnologia e dedicada aos estudos da minha graduação.<br>
+    🚀 Desenvolvendo uma base sólida de conhecimento através das disciplinas da faculdade e das atividades acadêmicas.<br>
+    🌱 Movida pelo desejo de aprender coisas novas a cada dia, superar desafios e evoluir constantemente na minha trajetória universitária!
   </p>
 </div>
