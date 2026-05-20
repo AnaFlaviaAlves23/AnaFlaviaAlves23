@@ -59,9 +59,10 @@
 <div align="center">
   <h1>Sobre mim</h1>
   <p>
-    ✨ Sou Ana Flávia Tavares Alves! <br>
-    🎓 Estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV - CRP).<br>
-    💻 Apaixonada por desenvolvimento de software, tecnologia e inovação!<br>
-    🚀 Constantemente aprendendo, construindo e explorando novas ferramentas para crescer como desenvolvedora.
+    👋 Prazer, sou a <b>Ana Flávia</b>! <br>
+    🎓 Futura Bacharel em <b>Sistemas de Informação</b> pela <b>UFV (Campus Rio Paranaíba)</b>.<br>
+    💻 Apaixonada pelo universo da tecnologia e focada em construir uma base sólida na área de TI.<br>
+    🛠️ No meu dia a dia de estudos, estou desenvolvendo projetos e aprimorando lógica com <b>Python, C, C#, Java e JavaScript</b>.<br>
+    🚀 Movida pela vontade de aprender coisas novas, resolver problemas reais através do código e evoluir constantemente na programação!
   </p>
 </div>
