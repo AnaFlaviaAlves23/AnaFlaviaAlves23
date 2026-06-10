@@ -1,34 +1,121 @@
-<h2 align="center">🛠️ Projetos em Destaque</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Simulador de Autômatos & Gramáticas</h3>
-      <p>Desenvolvimento de um ecossistema focado no processamento de Linguagens Formais para a disciplina SIN 141 na UFV.</p>
-      <ul>
-        <li><b>Determinização:</b> Algoritmo de Construção de Subconjuntos com $\epsilon$-fechamento (AFN ➔ AFD).</li>
-        <li><b>Minimização:</b> Implementação do Algoritmo de Hopcroft com refinamento de partições e remoção de estados inacessíveis.</li>
-        <li><b>Interatividade:</b> Interface web modular que renderiza automaticamente diagramas de estados (PNG) via Graphviz e aceita inputs via Canvas 2D.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Graphviz-B1292E?style=flat-square&logo=graphviz&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 VIONE</h3>
-      <p>Aplicação web moderna para gerenciamento inteligente de dados, totalmente containerizada e escalável.</p>
-      <ul>
-        <li><b>Frontend:</b> Interface reativa e performática construída em React com TypeScript.</li>
-        <li><b>Backend:</b> API REST sólida e assíncrona desenvolvida sobre o ecossistema Node.js.</li>
-        <li><b>Infraestrutura:</b> Orquestração e isolamento de ambientes microservados utilizando Docker.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Suas tecnologias principais atualizadas com Docker, Node e React -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+
+</div>
+
+
+
+###
+
+
+
+<div align="center">
+
+
+
+  <a href="https://www.linkedin.com/in/ana-flavia-tavares-alves-8a0896365/" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+
+  </a>
+
+
+
+  <a href="https://www.instagram.com/anaflaviaana23/" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+
+  </a>
+
+
+
+  <a href="mailto:anaflaviatavaresalves@gmail.com" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
+
+  </a>
+
+
+
+</div>
+
+
+
+###
+
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaFlaviaAlves23&layout=compact&theme=tokyonight" height="150" />
+
+
+
+  <img src="https://github-profile-trophy.vercel.app?username=AnaFlaviaAlves23&theme=tokyonight&margin-w=8&margin-h=8" height="150" />
+
+</div>
+
+
+
+###
+
+
+
+<div align="center">
+
+  <h1>Sobre mim</h1>
+
+  <p>
+
+    👋 Prazer, sou a <b>Ana Flávia</b>! <br>
+
+    🎓 Graduanda em <b>Sistemas de Informação</b> pela <b>UFV (Campus Rio Paranaíba)</b>.<br>
+
+    💻 Desenvolvedora com foco em <b>Full Stack (Frontend e Backend)</b>, Banco de Dados e Inteligência Artificial.<br>
+
+    🚀 No meu portfólio prático, destaco o <b>VIONE</b> (aplicação web moderna containerizada com React, Node.js e Docker) e o desenvolvimento de ecossistemas com Django e Flask.<br>
+
+    🧠 Também possuo forte base em computação de baixo nível e algoritmos, tendo implementado soluções de <b>Programação Concorrente (Multithreading) e Estruturas de Dados Lock-Free em C</b>[cite: 29, 30, 36], além de simuladores gráficos de Teoria da Computação com Python.<br>
+
+    🌱 Movida pelo desafio de transformar problemas teóricos complexos em códigos limpos, otimizados e bem estruturados!
+
+  </p>
+
+</div> 
+
