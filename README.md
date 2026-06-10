@@ -58,7 +58,7 @@
     🎓 Graduanda em <b>Sistemas de Informação</b> pela <b>UFV (Campus Rio Paranaíba)</b>.<br>
     💻 Desenvolvedora com foco em <b>Full Stack (Frontend e Backend)</b>, Banco de Dados e Inteligência Artificial.<br>
     🚀 No meu portfólio prático, destaco o <b>VIONE</b> (aplicação web moderna containerizada com React, Node.js e Docker) e o desenvolvimento de ecossistemas com Django e Flask.<br>
-    🧠 Também possuo forte base em computação de baixo nível e algoritmos, tendo implementado soluções de <b>Programação Concorrente (Multithreading) e Estruturas de Dados Lock-Free em C</b>[cite: 29, 30, 36], além de simuladores gráficos de Teoria da Computação com Python.<br>
+    🧠 Forte base em computação de baixo nível e algoritmos, com experiência prática em <b>Programação Concorrente (Multithreading)</b> através da implementação de <b>Estruturas de Dados Lock-Free baseadas em CAS em C</b> e simuladores automatizados para Teoria da Computação em Python.<br>
     🌱 Movida pelo desafio de transformar problemas teóricos complexos em códigos limpos, otimizados e bem estruturados!
   </p>
 </div>
