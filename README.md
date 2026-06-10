@@ -3,29 +3,24 @@
 ###
 
 <div align="center">
+  <!-- Suas tecnologias principais atualizadas com Docker, Node e React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
 </div>
 
 ###
@@ -60,9 +55,10 @@
   <h1>Sobre mim</h1>
   <p>
     👋 Prazer, sou a <b>Ana Flávia</b>! <br>
-    🎓 Futura Bacharel em <b>Sistemas de Informação</b> pela <b>UFV (Campus Rio Paranaíba)</b>.<br>
-    💻 Apaixonada pelo universo da tecnologia e dedicada aos estudos da minha graduação.<br>
-    🚀 Desenvolvendo uma base sólida de conhecimento através das disciplinas da faculdade e das atividades acadêmicas.<br>
-    🌱 Movida pelo desejo de aprender coisas novas a cada dia, superar desafios e evoluir constantemente na minha trajetória universitária!
+    🎓 Graduanda em <b>Sistemas de Informação</b> pela <b>UFV (Campus Rio Paranaíba)</b>.<br>
+    💻 Desenvolvedora com foco em <b>Full Stack (Frontend e Backend)</b>, Banco de Dados e Inteligência Artificial.<br>
+    🚀 No meu portfólio prático, destaco o <b>VIONE</b> (aplicação web moderna containerizada com React, Node.js e Docker) e o desenvolvimento de ecossistemas com Django e Flask.<br>
+    🧠 Também possuo forte base em computação de baixo nível e algoritmos, tendo implementado soluções de <b>Programação Concorrente (Multithreading) e Estruturas de Dados Lock-Free em C</b>[cite: 29, 30, 36], além de simuladores gráficos de Teoria da Computação com Python.<br>
+    🌱 Movida pelo desafio de transformar problemas teóricos complexos em códigos limpos, otimizados e bem estruturados!
   </p>
 </div>
